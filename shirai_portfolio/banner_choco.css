@@ -1,0 +1,64 @@
+.mv5_wrapper {
+   background-image: url(image/MV\ _Banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+    aspect-ratio: 16 / 9;
+}
+
+.works_detail {
+    background-color: #E3F6E4;
+    width: 75%;
+    border-radius: 25px;
+    margin: 100px auto; 
+    padding: 100px;
+}
+
+.choco_banner {
+    margin: 100px auto;
+}
+
+.choco_banner_bg {
+    background-color: #292A28;
+    border-radius: 25px;
+    width: 75%;
+    height: 70%;
+    text-align: center;
+    margin: 100px auto 80px auto;
+    padding: 20px;
+}
+
+.works_item {
+   /*  width: fit-content;
+    margin: 10px auto;
+    line-height: 1.5; */
+    text-align: left;
+}
+
+/*  .works_box_line { 
+    max-width: ;width: 700px;
+    margin: 0 auto;
+}  */
+
+.works_font {
+    margin-top: 10px;
+}
+
+.choco_text_position {
+    text-align: center;
+}
+
+p {
+    margin: 0;
+}
+
+
+@media screen and (max-width: 767px){
+
+header {
+    margin-bottom: 10%;
+}
+
+}
